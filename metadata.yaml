@@ -1,0 +1,33 @@
+_repo: Masters-of-deceit-b-The-story-of-Communism-in-America-and-how-to-fight-it_75796
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hoover, J. Edgar (John Edgar)
+    alias: Hoover, John Edgar
+    birthdate: 1895
+    deathdate: 1972
+    gutenberg_agent_id: '8410'
+    url: http://www.gutenberg.org/2009/agents/8410
+    wikipedia: http://en.wikipedia.org/wiki/J._Edgar_Hoover
+description: ''
+gutenberg_issued: '2025-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75796'
+language: en
+pgterms:marc905: 20160903053712hoover
+pgterms:marc906: '1958'
+pgterms:marc907: US
+production_note: Charlene Taylor, Bryan Ness and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aNew York :$bPocket Books, Inc., $c1958, pubdate 1961.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Communism -- United States'
+- !lcc 'HX'
+- GITenberg
+title: 'Masters of deceit : $b The story of Communism in America and how to fight
+  it'
+url: http://www.gutenberg.org/ebooks/75796
