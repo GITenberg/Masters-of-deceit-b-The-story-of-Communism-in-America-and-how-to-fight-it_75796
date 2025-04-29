@@ -1,5 +1,8 @@
 _repo: Masters-of-deceit-b-The-story-of-Communism-in-America-and-how-to-fight-it_75796
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75796-h/images/cover.jpg
 creator:
   author:
     agent_name: Hoover, J. Edgar (John Edgar)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8410
     wikipedia: http://en.wikipedia.org/wiki/J._Edgar_Hoover
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75796#Masters-of-deceit-b-The-story-of-Communism-in-America-and-how-to-fight-it
 gutenberg_issued: '2025-04-05'
 gutenberg_type: Text
 identifiers:
